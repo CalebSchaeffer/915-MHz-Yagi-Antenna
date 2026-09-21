@@ -13,5 +13,5 @@ Directional antenna for 915 MHz, intended for use with Meshcore or Meshtastic, a
 
 # Assembly
 
-![Assembly](images/Assembly.png)
+![Assembly](Images/Assembly.png)
 
