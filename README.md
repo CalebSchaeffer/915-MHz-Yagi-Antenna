@@ -1,4 +1,7 @@
+
 # 915-MHz-Yagi-Antenna
+## Project is untested. 
+
 Directional antenna for 915 MHz, intended for use with Meshcore or Meshtastic, and possibly 4G connections.
 
 # Bill of Materials
